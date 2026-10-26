@@ -1,0 +1,92 @@
+[
+  {
+    "route": "/products/riverfield-hoodie",
+    "name": "RIVERFIELD HOODIE",
+    "image": "/assets/44U8b2PuGCG6mwROZsv4tc0XsA.png",
+    "description": "A statement layer that blends art and comfort in a calm, contemporary form. Designed to stand out while remaining effortless to wear."
+  },
+  {
+    "route": "/products/silent-horizon-shirt",
+    "name": "SILENT HORIZON SHIRT",
+    "image": "/assets/ws1hZ7bJDW2lntwIofVIr5TBN1U.png",
+    "description": "The Silent Horizon Shirt is designed for effortless refinement — fluid, lightweight, and quietly expressive. Crafted from premium fabric with a relaxed silhouette, it delivers a clean balance of modern minimalism and artistic detail for elevated everyday wear."
+  },
+  {
+    "route": "/products/archive-silhouette-shirt",
+    "name": "ARCHIVE SILHOUETTE SHIRT",
+    "image": "/assets/a7eqhszl6ppSOOblRsbTQV7WG0.png",
+    "description": "A refined statement shirt blending fluid tailoring with subtle architectural artwork. Designed for effortless wear, it balances modern elegance with a relaxed streetwear edge for day-to-night styling."
+  },
+  {
+    "route": "/products/riverline-fade-shirt",
+    "name": "RIVERLINE FADE SHIRT",
+    "image": "/assets/4Vg02UhpoonOm8gq0da5ePRtPM.png",
+    "description": "A contemporary shirt defined by fluid gradients and landscape-inspired artwork. Designed with a relaxed silhouette, it blends artistic depth with everyday wearability, offering a refined balance of comfort and modern street elegance."
+  },
+  {
+    "route": "/products/vanilla-overshirt",
+    "name": "VANILLA OVERSHIRT",
+    "image": "/assets/Z8ESIoDqJq4Djlnew9Vc4VT2lM.png",
+    "description": "A clean, minimalist hooded shirt jacket crafted for relaxed layering, combining soft texture with a refined everyday silhouette."
+  },
+  {
+    "route": "/products/forest-textured-overshirt",
+    "name": "FOREST TEXTURED OVERSHIRT",
+    "image": "/assets/fzG9pf3SJSuQtaro4oHWEBrTus.png",
+    "description": "A versatile textured hooded overshirt designed for effortless layering, blending comfort with a clean, modern silhouette."
+  },
+  {
+    "route": "/products/ashfield-waffle-overshirt",
+    "name": "ASHFIELD WAFFLE OVERSHIRT",
+    "image": "/assets/pj88yoD3W48pXDAl4aNsezTKqw.png",
+    "description": "A muted, modern hooded layer designed for effortless everyday styling with a relaxed, refined presence."
+  },
+  {
+    "route": "/products/skyfire-hoodie",
+    "name": "SKYFIRE HOODIE",
+    "image": "/assets/weJ8qbbkhxAzusASZ45vsDWfxrs.png",
+    "description": "A graphic-forward layer that balances calm tones with a sense of motion. Designed for everyday wear with a soft yet striking presence."
+  },
+  {
+    "route": "/products/ironhorn-hoodie",
+    "name": "IRONHORN HOODIE",
+    "image": "/assets/lNcVppakeNx7FXQGrw4S0oRRs60.png",
+    "description": "A bold graphic layer designed to carry presence without excess. Built for everyday wear with a strong, grounded visual identity."
+  },
+  {
+    "route": "/products/burnt-orange",
+    "name": "BURNT ORANGE",
+    "image": "/assets/vEdR2o5Ylx1gJd25Ha2qW6qGo6Y.png",
+    "description": "A clean everyday layer with a calm, elevated feel. Designed to fall naturally on the body with modern presence."
+  },
+  {
+    "route": "/products/sandstone-crew",
+    "name": "SANDSTONE",
+    "image": "/assets/A5rZp9q9bTGgoVGDpimnt2guF0.png",
+    "description": "A refined sweatshirt with a relaxed silhouette and muted finish. Designed for effortless everyday wear with a clean, understated feel."
+  },
+  {
+    "route": "/products/midnight-crew",
+    "name": "MIDNIGHT",
+    "image": "/assets/fwv3dXyla7FYArUps18vzV9la0.png",
+    "description": "A refined everyday essential with a calm, balanced presence. Designed for effortless wear with a clean, modern feel."
+  },
+  {
+    "route": "/products/butterfly-wing-sweatshirt",
+    "name": "BUTTERFLY WING SWEATSHIRT",
+    "image": "/assets/RtOCZQz6oEmzcmqmRF7i1N6tWY.png",
+    "description": "A clean everyday layer finished with a subtle graphic accent. Calm, simple, and easy to style."
+  },
+  {
+    "route": "/products/northern-lights-glow",
+    "name": "NORTHERN LIGHTS GLOW",
+    "image": "/assets/ZBpykWS8CCn8pDktZDi50TM474.png",
+    "description": "A visually rich layer inspired by shifting light and quiet landscapes, designed to feel expressive yet composed."
+  },
+  {
+    "route": "/products/drpcase-sweatshirt",
+    "name": "STILLFORM SWEATSHIRT",
+    "image": "/assets/04zIk5qLv2r3qadYUtrZO4PCu8.png",
+    "description": "A clean, minimal sweatshirt elevated with a bold embroidered logo, designed to make a subtle yet confident statement."
+  }
+]

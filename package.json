@@ -1,0 +1,31 @@
+{
+  "name": "stillform-storefront",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "predev": "node scripts/apply-brand.mjs",
+    "dev": "next dev --hostname 0.0.0.0 --port 3000",
+    "prebuild": "node scripts/apply-brand.mjs",
+    "build": "next build",
+    "start": "next start --hostname 0.0.0.0 --port 3000",
+    "preview": "next start --hostname 0.0.0.0 --port 3000",
+    "sync:reference": "node scripts/sync-reference.mjs && node scripts/apply-brand.mjs",
+    "brand": "node scripts/apply-brand.mjs",
+    "test": "playwright test",
+    "compare:reference": "node scripts/compare-reference.mjs",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.58.0",
+    "@types/node": "^26.6.5",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "next": "^16.4.3",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  }
+}

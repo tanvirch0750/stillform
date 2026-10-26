@@ -1,0 +1,24 @@
+/* The reference layout lives in the frozen page styles; only standalone UI here. */
+#__framer-badge-container, [data-framer-name="Framer On-Page Editing"] { display: none !important; }
+.dc-dialog { box-sizing: border-box; width: min(640px, calc(100vw - 32px)); max-height: calc(100dvh - 64px); margin: 64px auto auto; padding: 0; border: 1px solid #dedede; border-radius: 8px; background: #fff; color: #1c1c1c; font-family: Inter, sans-serif; box-shadow: 0 20px 100px #0003; }
+.dc-dialog::backdrop { background: #0006; backdrop-filter: blur(4px); }
+.dc-dialog * { box-sizing: border-box; }
+.dc-dialog-header { display: flex; justify-content: space-between; align-items: center; gap: 24px; padding: 24px; border-bottom: 1px solid #dedede; }
+.dc-dialog h2 { margin: 0; font-family: Antonio, sans-serif; font-size: 28px; font-weight: 500; }
+.dc-close { display: grid; place-items: center; flex: 0 0 32px; width: 32px; height: 32px; padding: 0; background: transparent; color: #1c1c1c; border: 0; border-radius: 4px; font: 28px/1 Inter, sans-serif; cursor: pointer; }
+.dc-close:hover { background: #f0f0f0; }
+.dc-close:focus-visible, .dc-search-input:focus-visible, .dc-result:focus-visible { outline: 2px solid #1c1c1c; outline-offset: 3px; }
+.dc-search-wrap { display: flex; align-items: center; gap: 12px; padding: 20px 24px; border-bottom: 1px solid #dedede; }
+.dc-search-input { width: 100%; min-width: 0; padding: 8px 0; border: none; background: #fff; color: #1c1c1c; font: 16px/1.5 Inter, sans-serif; }
+.dc-results { display: grid; gap: 0; overflow-y: auto; max-height: 50dvh; padding: 8px 16px; }
+.dc-result { display: flex; align-items: center; gap: 20px; padding: 12px 8px; color: inherit; text-decoration: none; border-bottom: 1px solid #eee; }
+.dc-result:last-child { border-bottom: none; }
+.dc-result:hover { background: #f7f7f7; }
+.dc-result img { width: 64px; height: 80px; object-fit: cover; background: #f7f7f7; }
+.dc-result span { font-size: 13px; line-height: 1.5; letter-spacing: .02em; }
+.dc-dialog-body, .dc-empty { padding: 24px; font-size: 15px; line-height: 1.7; }
+.dc-dialog-body p { margin: 0 0 16px; }
+.dc-dialog-body p:last-child { margin-bottom: 0; }
+.dc-dialog-note { color: #666; font-size: 13px; }
+@media (max-width: 809.98px) { .dc-dialog { margin-top: 24px; max-height: calc(100dvh - 48px); } }
+@media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto !important; } }

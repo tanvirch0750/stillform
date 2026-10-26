@@ -1,0 +1,13 @@
+node_modules/
+dist/
+test-results/
+test-results-production/
+test-results-commerce/
+test-results-branding/
+playwright-report/
+.reference-cache/
+.env.local
+artifacts/
+.next/
+next-env.d.ts
+*.tsbuildinfo
